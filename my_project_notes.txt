@@ -2,3 +2,23 @@ Project Notes
 
 https://react-bootstrap.github.io/components.html#page-layout
 react bootstrap docs
+
+a great tutorial
+
+npm start
+
+npm run build
+
+Try this tutorial for simpe three page app
+https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+
+he also has a react book out in digital and physical
+
+
+~~~~~~~~~~~~~
+
+https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.s76n0581c
+
+
+simple tabled navigation using an array
+https://codepen.io/trey/post/tabbed-navigation-react

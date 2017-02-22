@@ -30,12 +30,17 @@ footer {padding-top:40px;}
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
-
+.art_thumb {width:inherit;}
 .container { width:100%;overflow:auto;}
 #news { 
-  padding:0 20px 20px 0;
+  padding:0 20px 20px 20px;
   padding-top:50px;
   float:left;
-  background-color:#ccc;
+  background-color:#e6e6e6;
   text-align:left;}
 #news grid {width:100%;}
+#news .feature div {color:#000;}
+
+
+
+

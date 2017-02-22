@@ -1,6 +1,8 @@
 import React from 'react';
+var Router = require('react-router');
 import Navbar from 'react-bootstrap/lib/Navbar';
 import Nav from 'react-bootstrap/lib/Nav';
+
 
 export default class HeaderNavigation extends React.Component {
   render() {
@@ -8,11 +10,10 @@ export default class HeaderNavigation extends React.Component {
     return (
       <Navbar brand={brand} fixedTop toggleNavKey={0}>
         <Nav right eventKey={0}>
-        <li><a href="#artists">artists</a></li>
-        <li><a href="#news" activeClassName="active">news</a></li>
-        <li><a href="http://codelovecode.com/blog">blog</a></li>
-        <li><a href="#about">about</a></li>
-        <li><a href="#contact">contact</a></li>
+        <li><a href="http://alannarisse.com/webdev" target="_blank">portfolio</a></li>
+        <li><a href="http://codelovecode.com/blog" target="_blank">blog</a></li>
+        <li><a href="http://instagram.com/codelovecode" target="_blank">instagram</a></li>
+        <li><a href="http://www.twitter.com/alannarisse" target="_blank">twitter</a></li>
         </Nav>
       </Navbar>
     );

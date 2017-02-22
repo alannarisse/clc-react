@@ -9,7 +9,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <HeaderNavigation />
         <div className="App-header">
           <h2>Code<br/>Love<br/>Code</h2>
           <svg width="100" height="100">
@@ -18,6 +17,7 @@ class App extends Component {
           </svg> 
         </div>
         <News />
+        <HeaderNavigation />
         <Footer />
       </div>
     );
