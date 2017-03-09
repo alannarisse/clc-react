@@ -35,13 +35,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -104,9 +97,36 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/alanna/Sites/clc-react",
+		"/Users/alanna/Sites/clc-react/build",
+		"/Users/alanna/Sites/clc-react/node_modules/react/lib",
+		"/Users/alanna/Sites/clc-react/public",
+		"/Users/alanna/Sites/clc-react/src",
+		"/Users/alanna/Downloads/CSS-Tricks-React-Series-master/guide-1-react-router",
+		"/Users/alanna/Downloads/CSS-Tricks-React-Series-master/guide-1-react-router/app",
+		"/Users/alanna/Downloads/CSS-Tricks-React-Series-master/guide-1-react-router/app/components",
+		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src",
+		"/Users/alanna/Sites/create-react-app",
+		"/Users/alanna/Sites/create-react-app/src"
 	],
 	"file_history":
 	[
+		"/Users/alanna/Sites/clc-react/my_project_notes.txt",
+		"/Users/alanna/Sites/clc-react/src/index.js",
+		"/Users/alanna/Sites/clc-react/src/Footer.js",
+		"/Users/alanna/Sites/clc-react/src/HeaderNavigation.js",
+		"/Users/alanna/Sites/clc-react/src/App.js",
+		"/Users/alanna/Sites/clc-react/src/App.css",
+		"/Users/alanna/Sites/clc-react/public/index.html",
+		"/Users/alanna/Sites/clc-react/src/News.js",
+		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/InlineLogin.js",
+		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/HeaderNavigation.js",
+		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/Footer.js",
+		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/Body.js",
+		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/App.js",
+		"/Users/alanna/Sites/clc-react/node_modules/webpack/lib/dependencies/RequireResolveContextDependency.js",
+		"/Users/alanna/Sites/clc-react/src/index.css",
+		"/Users/alanna/Sites/clc-react/node_modules/postcss-selector-parser/dist/selectors/container.js",
 		"/Users/alanna/Sites/codelovecode-react/npm-debug.log",
 		"/Users/alanna/Sites/codelovecode-react/package.json",
 		"/Users/alanna/Sites/codelovecode-react/create-notes.txt",
@@ -218,23 +238,7 @@
 		"/Users/alanna/Sites/vergepdx-react/src/Modlandia.js",
 		"/Users/alanna/Sites/vergepdx-react/src/App.js",
 		"/Users/alanna/Sites/ember_essentials/bookmarker/package.json",
-		"/Users/alanna/Downloads/p7zip_16.02/README",
-		"/Users/alanna/Sites/vergepdx-react/src/About.js",
-		"/Users/alanna/Sites/vergepdx-react/src/Footer.js",
-		"/Users/alanna/Desktop/React-tests/modal_test.js",
-		"/Users/alanna/Sites/vergepdx-react/src/Venues.js",
-		"/Users/alanna/Sites/vergepdx-react/src/HeaderNavigation.js",
-		"/Users/alanna/Sites/vergepdx-react/src/styles/App.css",
-		"/Users/alanna/Sites/vergepdx-react/.gitignore",
-		"/Users/alanna/Sites/vergepdx-react/create-notes.txt",
-		"/Users/alanna/Sites/vergepdx-react/src/Modal.js",
-		"/Users/alanna/Sites/create-react-app/src/App.css",
-		"/Users/alanna/Sites/vergepdx-react/src/App.css",
-		"/Users/alanna/Sites/vergepdx-react/public/index.html",
-		"/Users/alanna/Sites/react-bootstrap-getting-started/package.json",
-		"/Users/alanna/Sites/react-bootstrap-getting-started/src/styles/custom-styles.css",
-		"/Users/alanna/Sites/react-bootstrap-getting-started/index.html",
-		"/Users/alanna/Sites/vergepdx-react/package.json"
+		"/Users/alanna/Downloads/p7zip_16.02/README"
 	],
 	"find":
 	{
@@ -360,36 +364,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -441,6 +417,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"codelovecode",
+				"clc-react/node_modules/webpack/lib/dependencies/RequireResolveContextDependency.js"
+			]
 		],
 		"width": 0.0
 	},

@@ -22,3 +22,5 @@ https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-ex
 
 simple tabled navigation using an array
 https://codepen.io/trey/post/tabbed-navigation-react
+
+scp -r build/* angrypirate@alannarisse.com:dev.codelovecode.com/

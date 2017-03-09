@@ -4,18 +4,18 @@ import Row from 'react-bootstrap/lib/Row';
 import Col from 'react-bootstrap/lib/Col';
 import Button from 'react-bootstrap/lib/Button';
 import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar';
-import wit from './images/arisse_wit.png';
+import wit from '../images/arisse_wit.png';
 
 
-export default class News extends React.Component {
+export default class Portfolio extends React.Component {
   render() {
     return (
 
-      <Grid id="news">
+      <Grid id="portfolio">
         <Row className="show-grid">
           <Col xs={12} md={12}>
-            <h2>What's Cookin'</h2>
-            <Grid io="news">
+            <h2>Web Developer Portfolio</h2>
+            <Grid id="examples">
               <Row className="show-grid feature">
                 <Col xs={3} md={4}>
                   <h3>The Tech Gender Gap</h3>
