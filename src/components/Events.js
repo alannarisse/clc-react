@@ -57,7 +57,7 @@ export default class Events extends React.Component {
           </div>
           <div className="apt-notes">
             {this.state.data[index].eventNotes}<br/>
-            <a href="{this.state.data[index].eventUrl}" target="_blank">{this.state.data[index].eventUrl}</a>
+            <a href={this.state.data[index].eventUrl} target="_blank">{this.state.data[index].eventUrl}</a>
           </div>
         </li>
 
