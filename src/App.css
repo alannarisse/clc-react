@@ -1,3 +1,8 @@
+/* GLOBAL */
+a {
+  color:#990000;
+}
+
 .App {
   text-align: center;
 }
@@ -30,17 +35,72 @@ footer {padding-top:40px;}
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
-.art_thumb {width:inherit;}
+.art_thumb {width:90%;}
 .container { width:100%;overflow:auto;}
-#news { 
+#news, #events {
   padding:0 20px 20px 20px;
   padding-top:50px;
   float:left;
   background-color:#e6e6e6;
   text-align:left;}
-#news grid {width:100%;}
-#news .feature div {color:#000;}
+#news grid, #events grid {width:100%;}
+#news .feature div, #events .feature div {color:#000;}
 
+/**  Interface Styles for Events Buid Out **/
 
+.apt-addheading {
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+}
+
+.item-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  margin: 10px 5%;
+  font-size: 1rem;
+}
+
+.item-list .pet-item {
+  border-bottom: 1px dotted gray;
+  padding-bottom: 10px;
+}
+
+.item-list .pet-item:last-child {
+  border-bottom: none;
+}
+
+.item-list .pet-name {
+  font-weight: 600;
+  color: #337ab7;
+  font-size: 1.3em;
+  line-height: 100%;
+  color: #990000;
+
+}
+
+.item-list .pet-info {
+  font-size: 1.7em;
+}
+
+.item-list .label-item {
+  font-weight: 600;
+  color: #667B82;
+}
+
+.item-list .pet-delete {
+  font-size: 1.2em;
+}
+
+.item-list .apt-date {
+  font-style: italic;
+}
+
+.item-list .apt-notes {
+
+}
 
 

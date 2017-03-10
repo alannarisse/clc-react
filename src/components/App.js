@@ -3,12 +3,21 @@ import React, { Component } from 'react';
 import '../App.css';
 import HeaderNavigation from './HeaderNavigation';
 import News from './News';
+import Events from './Events';
 import Footer from './Footer';
 
 class App extends Component {
-  state = { pageHeader: "News" };
+  state = {
+    title: 'News',
+    show: true
+   };
 
   render() {
+    var showTitle;
+    if (this.state.show){
+      showTitle = 'i can see clearly now the rain is gone';
+    }
+
     return (
       <div className="App">
         <div className="App-header">
@@ -18,8 +27,11 @@ class App extends Component {
              //replace this with a circle graphic
           </svg>
         </div>
-        <div className="pageHeader">{this.state.pageHeader}</div>
+        <div className="pageHeader">
+          { showTitle }
+        </div>
         <News />
+        <Events />
         <HeaderNavigation />
         <Footer />
       </div>

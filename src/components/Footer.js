@@ -7,7 +7,7 @@ export default class Footer extends React.Component {
       <Grid>
         <hr />
         <footer>
-          <p>© Alanna Risse 2017</p>
+          <p>© <a href="http://alannarisse.com/webdev" target="_blank">Alanna Risse</a> 2017</p>
         </footer>
       </Grid>
     );
