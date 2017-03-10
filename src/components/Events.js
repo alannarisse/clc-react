@@ -13,7 +13,7 @@ export default class Events extends React.Component {
       {
         "eventName": "Monthly Mentorship Saturday - Partnership with Metal Toad",
         "orgName": "Chick Tech Portland",
-        "eventDate": "2016-03-1 10:00am",
+        "eventDate": "2016-03-11 10:00am",
         "eventNotes": "This meetup is about forming self-organizing groups to get unstuck and solve problems together!",
         "eventUrl": "https://www.meetup.com/ChickTech-Portland/events/236998766/"
       },
