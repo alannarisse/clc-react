@@ -35,6 +35,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "https://www.youtube.com/user/RegionalArts\nhttps://twitter.com/R_A_C_C\"\nhttps://www.facebook.com/RegionalArts/\"\nhttps://www.instagram.com/raccpdx/\"",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix",
+				"name": "https://www.youtube.com/user/RegionalArts"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -43,10 +52,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 301.0,
-		"last_filter": "inden",
+		"height": 400.0,
+		"last_filter": "Insta",
 		"selected_items":
 		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
 			[
 				"inden",
 				"Indentation: Reindent Lines"
@@ -97,27 +114,40 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/alanna/Sites/clc-react",
-		"/Users/alanna/Sites/clc-react/build",
-		"/Users/alanna/Sites/clc-react/node_modules/react/lib",
-		"/Users/alanna/Sites/clc-react/public",
-		"/Users/alanna/Sites/clc-react/src",
-		"/Users/alanna/Downloads/CSS-Tricks-React-Series-master/guide-1-react-router",
-		"/Users/alanna/Downloads/CSS-Tricks-React-Series-master/guide-1-react-router/app",
-		"/Users/alanna/Downloads/CSS-Tricks-React-Series-master/guide-1-react-router/app/components",
-		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src",
-		"/Users/alanna/Sites/create-react-app",
-		"/Users/alanna/Sites/create-react-app/src"
+		"/Users/alanna/Sites/clc-react"
 	],
 	"file_history":
 	[
-		"/Users/alanna/Sites/clc-react/my_project_notes.txt",
+		"/Users/alanna/Sites/clc-react/clc.sublime-project",
+		"/Users/alanna/Sites/clc-react/src/components/Events.js",
+		"/Users/alanna/Sites/clc-react/src/components/News.js",
+		"/Users/alanna/Sites/clc-react/src/components/App.js",
+		"/Users/alanna/Sites/clc-react/public/index.html",
+		"/Users/alanna/Sites/clc-react/hack-night.txt",
+		"/Users/alanna/.bash_profile",
+		"/Users/alanna/Sites/codementor/js-learn-live/my-notes.txt",
+		"/Users/alanna/.babelrc",
+		"/Users/alanna/.babel",
+		"/Users/alanna/Sites/clc-react/src/components/LightboxTest.js",
+		"/Users/alanna/Sites/clc-react/eventdata.json",
+		"/Users/alanna/Sites/clc-react/src/testData.json",
 		"/Users/alanna/Sites/clc-react/src/index.js",
+		"/Users/alanna/Desktop/clc-react_playground/Events_static_state.js",
+		"/Users/alanna/Sites/clc-react/src/App.css",
+		"/Users/alanna/Sites/clc-react/src/components/Footer.js",
+		"/Users/alanna/Sites/clc-react/src/components/Portfolio.js",
+		"/Users/alanna/Sites/clc-react/build/index.html",
+		"/Users/alanna/Sites/clc-react/webpack.config.js",
+		"/Users/alanna/Sites/clc-react/src/components/HeaderNavigation.js",
+		"/Users/alanna/Sites/clc-react/package.json",
+		"/Users/alanna/Sites/clc-react/.gitignore",
+		"/Users/alanna/Sites/create-react-app/package.json",
+		"/Users/alanna/Sites/clc-react/.babelrc",
+		"/Users/alanna/Sites/clc-react/.eslintrc.js",
+		"/Users/alanna/Sites/clc-react/src/App.js",
+		"/Users/alanna/Sites/clc-react/my_project_notes.txt",
 		"/Users/alanna/Sites/clc-react/src/Footer.js",
 		"/Users/alanna/Sites/clc-react/src/HeaderNavigation.js",
-		"/Users/alanna/Sites/clc-react/src/App.js",
-		"/Users/alanna/Sites/clc-react/src/App.css",
-		"/Users/alanna/Sites/clc-react/public/index.html",
 		"/Users/alanna/Sites/clc-react/src/News.js",
 		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/InlineLogin.js",
 		"/Users/alanna/Sites/react-bootstrap-getting-started-final-solution/src/HeaderNavigation.js",
@@ -215,40 +245,18 @@
 		"/Users/alanna/Sites/CodeSchool/BootstrapPortfolioProject/src/index.html",
 		"/Users/alanna/Sites/ember_essentials/verge-ember/app/routes/venues.js",
 		"/Users/alanna/Sites/ember_essentials/verge-ember/app/templates/venues.hbs",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/.gitignore",
-		"/Users/alanna/Desktop/Vitamin T_frontenddeveloper.txt",
-		"/Users/alanna/Documents/Work/Resumes/resume_from_aquent_site.txt",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/app/helpers/venue-title.js",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/app/templates/components/artist-page-nav.hbs",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/package.json",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/app/components/artist-list.js",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/app/templates/exhibitions.hbs",
-		"/Users/alanna/Sites/com.bootstrap/bootstrap-inter/index.html",
-		"/Users/alanna/Sites/ember_essentials/verge-ember/app/routes/about.js",
-		"/Users/alanna/Sites/ember_essentials/bookmarker/app/routes/about.js",
-		"/Users/alanna/Documents/Geek/rsync.txt",
-		"/Users/alanna/Sites/ember_essentials/bookmarker/app/templates/about.hbs",
-		"/Users/alanna/Sites/ember_essentials/bookmarker/app/templates/components/bookmark-listing.hbs",
-		"/Users/alanna/Sites/ember_essentials/bookmarker/app/templates/application.hbs",
-		"/Users/alanna/Sites/geek/terminal_cheet_sheets/terminal windows",
-		"/Users/alanna/Sites/geek/terminal_cheet_sheets/rsync -vanc angrypirate@alannarisse.com::home:angr",
-		"/Users/alanna/Sites/vergepdx-react/src/Features.js",
-		"/Users/alanna/Sites/vergepdx-react/src/index.js",
-		"/Users/alanna/Sites/vergepdx-react/node_modules/react-bootstrap/lib/Collapse.js",
-		"/Users/alanna/Sites/vergepdx-react/src/Modlandia.js",
-		"/Users/alanna/Sites/vergepdx-react/src/App.js",
-		"/Users/alanna/Sites/ember_essentials/bookmarker/package.json",
-		"/Users/alanna/Downloads/p7zip_16.02/README"
+		"/Users/alanna/Sites/ember_essentials/verge-ember/.gitignore"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
 		"height": 106.0,
 		"where_history":
 		[
+			"<current file>",
 			"/Users/alanna/Sites/codelovecode-react",
 			"<current file>",
 			"/Users/alanna/Sites/ember_essentials/verge-ember/app",
@@ -263,6 +271,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Lucas • ",
+			"Lucas Haley ",
+			"(lucasmhaley@gmail.com)",
 			"vergepdx-react",
 			"assets/images/",
 			"Portlasnd",
@@ -334,6 +345,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"codelovecode-react",
 			"assets/images/thumbs/",
 			"Specimens",
@@ -364,8 +376,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								146
+							]
+						],
+						"settings":
+						{
+							"auto_name": "https://www.youtube.com/user/RegionalArts",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

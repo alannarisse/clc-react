@@ -8,7 +8,7 @@ export default class HeaderNavigation extends React.Component {
     return (
       <Navbar fixedTop>
         <Nav>
-        <li><a href="http://alannarisse.com/webdev" target="_blank">portfolio</a></li>
+        <li><a href="http://portfolio.alannarisse.com" target="_blank">portfolio</a></li>
         <li><a href="http://codelovecode.com/blog" target="_blank">blog</a></li>
         <li><a href="http://instagram.com/codelovecode" target="_blank">instagram</a></li>
         <li><a href="http://www.twitter.com/alannarisse" target="_blank">twitter</a></li>

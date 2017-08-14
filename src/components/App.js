@@ -31,7 +31,6 @@ class App extends Component {
           { showTitle }
         </div>
         <News />
-        <Events />
         <HeaderNavigation />
         <Footer />
       </div>

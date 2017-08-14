@@ -8,7 +8,7 @@ import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar';
 
 export default class Events extends React.Component {
   state = {
-    data:
+    myEvents:
     [
       {
         "eventName": "Monthly Mentorship Saturday - Partnership with Metal Toad",
@@ -43,21 +43,21 @@ export default class Events extends React.Component {
    }; //state
 
    render() {
-    var filteredApts = this.state.data;
+    var filteredApts = this.state.myEvents;
     filteredApts = filteredApts.map(function(item, index){
       return(
         <li className="pet-item media" key={index}>
           <div className="pet-head">
-            <span className="pet-name">{this.state.data[index].eventName}</span>
-            <span className="apt-head pull-right">{this.state.data[index].eventDate}</span>
+            <span className="pet-name">{this.state.myEvents[index].eventName}</span>
+            <span className="apt-head pull-right">{this.state.myEvents[index].eventDate}</span>
           </div>
           <div className="owner-name">
             <span className="label-item">Owner:</span>
-            {this.state.data[index].orgName}
+            {this.state.myEvents[index].orgName}
           </div>
           <div className="apt-notes">
-            {this.state.data[index].eventNotes}<br/>
-            <a href={this.state.data[index].eventUrl} target="_blank">{this.state.data[index].eventUrl}</a>
+            {this.state.myEvents[index].eventNotes}<br/>
+            <a href={this.state.myEvents[index].eventUrl} target="_blank">{this.state.myEvents[index].eventUrl}</a>
           </div>
         </li>
 
@@ -79,12 +79,20 @@ export default class Events extends React.Component {
                   </div>
                 </Col>
                 <Col xs={12} sm={4} md={4}>
-                  <h3>About Alanna Risse</h3>
+                  <h3>About Me</h3>
                   <p>I am Alanna Risse. I created this website in React.js in
                   order to use it as a learning playground for React. I am not
                   just a one-trick pony! I am an <a href="http://alannarisse.com/blog/" target="_blank">artist</a>.
                   I like to <a href="http://alannarisse.com/blog/writing/">write</a>.
                   I have an adorable 6 year old daughter. I also love to <a href="https://www.strava.com/athletes/13752294" target="_blank">ride bikes</a>.</p>
+                  <h3>What I Think About Code</h3>
+                  <ul>
+                      <li>Code is art</li>
+                      <li>Code is cmmunication</li>
+                      <li>Code encourages abstract thought</li>
+                      <li>Code is a tool for expression</li>
+                      <li>Code can bring ideas to light</li>
+                  </ul>
                 </Col>
               </Row>
             </Grid>

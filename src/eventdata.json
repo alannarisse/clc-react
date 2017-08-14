@@ -1,0 +1,30 @@
+[
+      {
+        "eventName": "Monthly Mentorship Saturday - Partnership with Metal Toad",
+        "orgName": "Chick Tech Portland",
+        "eventDate": "2016-03-11 10:00am",
+        "eventNotes": "This meetup is about forming self-organizing groups to get unstuck and solve problems together!",
+        "eventUrl": "https://www.meetup.com/ChickTech-Portland/events/236998766/"
+      },
+      {
+        "eventName": "Portland ReactJS Presentation Night",
+        "orgName": "Portland ReactJS",
+        "eventDate": "2017-03-14 06:00pm",
+        "eventNotes": "Topics: Putting the P in Preact - Derek Hurley & Taking React's Virtual Dom to the Virtual World- Joe Hsu",
+        "eventUrl": "https://www.meetup.com/Portland-ReactJS/events/237905512/"
+      },
+      {
+        "eventName": "PDX Women in Tech (PDXWIT) Happy Hour Networking Event",
+        "orgName": "Chick Tech Portland",
+        "eventDate": "2016-03-21 4:30pm",
+        "eventNotes": "Join us for happy hour at moovel! We know that everyone uses tech tools on a daily basis to conduct your life, so we decided to explore this topic as it relates to your career. At this event, the theme will be \“Simple machines: using your tools to leverage your career\” and the conversation starter will be \“What’s your favorite tech tool?\”",
+        "eventUrl": "https://www.meetup.com/ChickTech-Portland/events/238015983/"
+      },
+      {
+        "eventName": "ReactJS Study Night",
+        "orgName": "Portland Women Who Code",
+        "eventDate": "2016-03-15 5:30pm",
+        "eventNotes": "Developers interested in an evening of making React components and talking all things React and React Native. This is not a beginners workshop, but beginners are welcome if prepared to dive in and keep up with us.",
+        "eventUrl": "https://www.meetup.com/Women-Who-Code-Portland/events/237128885/"
+      }
+    ]
